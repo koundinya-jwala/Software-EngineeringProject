@@ -1,4 +1,5 @@
-What  this project will offer to various users ?
+
+
 Customer : Customer is the one who wants to buy the product or who would like to know about the product . 
 Seller  :  Seller is the one who would like to sell the product . 
 Vendor  :  Vendor is the one who manages the platform between sellers and customers . 
@@ -6,17 +7,27 @@ Vendor  :  Vendor is the one who manages the platform between sellers and custom
 This project provides a mobile App for Sellers and customers  and a web application for vendors . 
 
 Details about interfaces : 
-Customer interface :  This interface is available to  any user without registration to view the product and can buy the product by registering as a user .
-						He is also provided with a payment gateway to pay for the product . 
+Customer interface :  This interface is available to  any user without registration to view the product and can buy the product by
+			registering as a user .  He is also provided with a payment gateway to pay for the product . 
 
-Seller Interface    :  This interface is available to all sellers who are registered with the application to enter details about the product they want to sell .
-						          Seller is also provided with payment gateway for recieving the money for the product . 
+Seller Interface    :  This interface is available to all sellers who are registered with the application to enter details about the 
+			product they want to sell . Seller is also provided with payment gateway for recieving the money for the product . 
 						
-Vendor  Interface  :  Vendor is the one who regulates the activities of the seller and the customer for fair competition and other issues . He also ensures the 
-	            					reliability , availability , tracking , usability of the product to be sold . 
-						
-						
+Vendor  Interface  :  Vendor is the one who regulates the activities of the seller and the customer for fair competition and other issues .
+			He also ensures the reliability , availability , tracking , usability of the product to be sold . 
 						
 						
-How initial work division is done ? 
-The application is built using MVC model . So code has to be written 
+						
+						
+Plan of Action : 
+The following project follows Agile Process Model to implement the software .  The core idea of the model is 
+"  Individuals and interactions over processes and models  "
+" Working Software over comprehensive Documentation  "
+" Customer Collaboration over contract negotiations " 
+" Responding to change over following a plan " 
+
+So the main idea is to implement smaller chunks of the project in less time rather than planning it as a bigger task to be accomplished
+over a large period of time . This not only assures of relaibility but also smaller risks involved here as failure here would mean a 
+smaller chunk of it having a problem . 
+
+Hence our project will be divided into smaller parts which will be shown in the design of the project . 
