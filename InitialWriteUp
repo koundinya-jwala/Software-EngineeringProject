@@ -1,0 +1,22 @@
+What  this project will offer to various users ?
+Customer : Customer is the one who wants to buy the product or who would like to know about the product . 
+Seller  :  Seller is the one who would like to sell the product . 
+Vendor  :  Vendor is the one who manages the platform between sellers and customers . 
+
+This project provides a mobile App for Sellers and customers  and a web application for vendors . 
+
+Details about interfaces : 
+Customer interface :  This interface is available to  any user without registration to view the product and can buy the product by registering as a user .
+						He is also provided with a payment gateway to pay for the product . 
+
+Seller Interface    :  This interface is available to all sellers who are registered with the application to enter details about the product they want to sell .
+						          Seller is also provided with payment gateway for recieving the money for the product . 
+						
+Vendor  Interface  :  Vendor is the one who regulates the activities of the seller and the customer for fair competition and other issues . He also ensures the 
+	            					reliability , availability , tracking , usability of the product to be sold . 
+						
+						
+						
+						
+How initial work division is done ? 
+The application is built using MVC model . So code has to be written 
