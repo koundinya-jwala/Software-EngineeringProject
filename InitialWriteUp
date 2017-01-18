@@ -1,4 +1,35 @@
+*****Android App Development - E-commerce app*****
 
+1) Basic Business Requirements
+
+> The Aim
+
+The aim of the app is primarily to work as a simplified interface between business logic admin and the customers. The project encompasses basic expectations on the part of the customer. Design emphasizes on smooth, robust, reliable and real-world experience for the customer. The basic idea of inception is to consider the age groups, literacy rate of the customer domain the app focuses on. Following the same of reasoning, it is indispensable for the application to be user-friendly and efficient.
+
+> The scope
+
+The project is pushed further to its implementation and deployment sticking to the fact that the app hits a vast area of customer domain which generically demand for a 'less work-more result' application. Pertaining to the domain, the scope of the application has been set up to include all the major features in the most basic view, so as to help the customer manuever through the interface with least number of steps. 
+
+2) Technical Aspects
+
+> The Framework
+
+Framework corresponds to the general view of any e-commerce application:
+
+1. The Home Page : Equipped with general 'across-the-store' search facility
+2. Login: Customized User interface to provide the log in for the customer.
+3. Notification: The advertisements rolled out by the company, will be dislayed/popped out
+4. Cart: The shopping cart details for the ongoing shopping sessions
+5. History: The details of previous orders made.
+6. Order tracking: The details of any orders made, that have not been delivered.
+
+> Financial Gateway
+
+The payment mode gateway requires seperate attention perataining fault-tolerant, atomic transactions, crashes, commit, reliability, concurrency issues.
+Basic concurrency management techniques will be employed.
+
+
+> The Interfaces
 
 Customer : Customer is the one who wants to buy the product or who would like to know about the product . 
 Seller  :  Seller is the one who would like to sell the product . 
@@ -19,7 +50,8 @@ Vendor  Interface  :  Vendor is the one who regulates the activities of the sell
 						
 						
 						
-Plan of Action : 
+> Plan of Action :
+
 The following project follows Agile Process Model to implement the software .  The core idea of the model is 
 "  Individuals and interactions over processes and models  "
 " Working Software over comprehensive Documentation  "
@@ -31,3 +63,10 @@ over a large period of time . This not only assures of relaibility but also smal
 smaller chunk of it having a problem . 
 
 Hence our project will be divided into smaller parts which will be shown in the design of the project . 
+ 
+
+> Development platform and final deployment
+
+Android Studio and Android v4.4 and above
+
+- Aashish K. Singh and M.J.V. Koundinya
